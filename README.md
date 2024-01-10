@@ -1,4 +1,4 @@
-# Uppgift JS - Variables and Datatypes
+# Exercise - Variables and Datatypes
 
 ## Exercise 1
   #### Declare a variable with description of age and print to console.
